@@ -1,0 +1,7 @@
+.hover-element:hover::after {
+    content: "word1, word2, word3"; /* Replace with your list of words */
+    display: block;
+    position: absolute;
+    /* Add additional styling as needed */
+  }
+  
